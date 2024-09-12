@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CharbelAssaad
 - 👀 I’m interested in Creating websites and softwares
-- 🌱 I’m Full Stack Wev Developer React js /Next js 
+- 🌱 I’m Full Stack Web Developer React js /Next js 
 
 
 <!---
